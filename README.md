@@ -29,7 +29,6 @@ Navigate to the `/test` folder to review the unit tests for this project. These 
 ```
 npm start
 ```
-
 ## Deploy the App Service Infrastructure:
 
 Click the button below to deploy an Azure Web App for Linux. This will create a new app service plan and web app with a dev deployment slot. You can then create build and release pipelines at dev.azure.com to continuously deploy the node application in this repo to the dev deployment slot.
